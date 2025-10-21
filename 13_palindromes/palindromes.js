@@ -3,9 +3,6 @@ const reverseString = require("../07_reverseString/reverseString.js");
 const palindromes = function (checkStr) {
   //A car, a man, a maraca.
   //.acaram a ,nam a ,rac A
-  //   console.log(checkStr);
-  //   console.log(reverseString(checkStr));
-  //   console.log(checkStr === reverseString(checkStr));
 
   const alphanumerical = "abcdefghijklmnopqrstuvwxyz0123456789";
 
